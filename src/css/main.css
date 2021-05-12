@@ -1,0 +1,27 @@
+
+.alink{
+	text-decoration: none;
+}
+.bpad{
+	padding:15px 40px; 
+}
+.img2{
+	width: 100%;
+	clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+.img31{
+	width: 100%;
+	clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+
+}
+.img19{
+	width: 100%;
+	border-radius: 2%;
+	margin: 0,15px;
+}
+.contenedor{
+	width: 80%;
+}
+li{
+	list-style: none;
+}
